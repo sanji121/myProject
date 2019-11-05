@@ -1,0 +1,25 @@
+body{
+    background-color:#f4f4
+}
+
+.top-grid{
+    display: grid;
+    grid-template-columns:1fr 6fr;
+    grid-auto-rows:minmax(200px,auto);
+    text-align: center;
+    vertical-align: middle;
+    line-height: 200px;
+    background-color: antiquewhite;
+    font-family: fantasy;
+    font-size: 40px;
+}
+
+.homeLogo{
+    border-style: solid;
+    border-width: medium;
+}
+
+.banner{
+    border-style: solid;
+    border-width: medium;
+}
