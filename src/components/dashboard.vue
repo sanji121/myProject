@@ -168,68 +168,14 @@ export default{
         postList : [
       new Post(
         'Math', 
-        '7000', 
+        '£15', 
         'Good',
         '4.8',
         '6',
-        'Berlin',
+        'Room:c125',
         '9:00am'
 
-      ),
-      new Post(
-        'Physics', 
-        '6000', 
-        'Good',
-        '4.8',
-        '6',
-        'London',
-        '10:00am'
-      ),
-      new Post(
-        'English', 
-        '6000', 
-        'Normal',
-        '4.5',
-        '9',
-        'paris',
-        '11:00am'
-      ),
-      new Post(
-        'Sport Club', 
-        '1500', 
-        'Its awesome', 
-        '4.0',
-        '10',
-         'france',
-         '12:pm'
-      ),
-      new Post(
-        'Test Club', 
-        '2000', 
-        'Great',
-        '3',
-        '2',
-        'france',
-         '4:00pm'
-      ),
-      new Post(
-        'Cricket', 
-        '1000', 
-        'love to play', 
-        '5.0',
-        '6',
-        'france',
-         '5:00pm'
-      ),
-      new Post(
-        'Football', 
-        '700', 
-        'Nice',
-        '3.8',
-        '8',
-        'calafornia',
-         '12:pm'
-      ),
+      ),,
       
         ]
    }
